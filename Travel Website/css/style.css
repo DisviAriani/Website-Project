@@ -9,6 +9,44 @@
 html {
   scroll-behavior: smooth;
 }
+/* NAV SECTION START */
+nav {
+  display: flex;
+  position: fixed;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 80px;
+  background-color: #fff;
+  box-shadow: 0px 1px 10px #0000001a;
+  width: 100%;
+}
+nav ul {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  z-index: 9999;
+}
+nav .logo {
+  font-weight: 900;
+  font-size: 25px;
+}
+nav ul li {
+  list-style-type: none;
+}
+nav ul li a {
+  display: flex;
+  color: black;
+  text-decoration: none;
+  margin: 0;
+}
+nav ul li a:hover {
+  color: cadetblue;
+}
+.icon-list {
+  font-size: 25px;
+  display: none;
+}
+/* NAV SECTION END */
 
 /* TITLE HEADER SECTION START*/
 .title-header {
@@ -224,44 +262,6 @@ footer p {
 }
 /* FOOTER SECTION end*/
 
-/* NAV SECTION START */
-nav {
-  display: flex;
-  position: fixed;
-  align-items: center;
-  justify-content: space-between;
-  padding: 20px 40px;
-  background-color: #fff;
-  box-shadow: 0px 1px 10px #0000001a;
-  width: 100%;
-}
-nav ul {
-  display: flex;
-  align-items: center;
-  gap: 2rem;
-  z-index: 9999;
-}
-nav .logo {
-  font-weight: 900;
-  font-size: 25px;
-}
-nav ul li {
-  list-style-type: none;
-}
-nav ul li a {
-  display: flex;
-  color: black;
-  text-decoration: none;
-  margin: 0;
-}
-nav ul li a:hover {
-  font-size: 20px;
-}
-.icon-list {
-  font-size: 25px;
-  display: none;
-}
-/* NAV SECTION END */
 /* MEDIA QUERIES */
 @media only screen and (max-width: 820px) {
   nav {
