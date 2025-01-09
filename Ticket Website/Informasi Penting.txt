@@ -1,0 +1,24 @@
+--- WEBISTE TIKET KONSER MUSIK ---
+
+Aplikasi website pembelian tiket konser dari seorang penyanyi bernama "Tulus" 
+yang sedang melakukan Tur konsernya di Jakarta pada 27 Agustus 2024.
+Webiste ini juga memiliki Halaman Admin yang dapat mengelola data pemesan tiket.
+
+AKUN ADMIN
+-- Username : admin123@gmail.com
+-- Password : 12345
+
+SILAHKAN KLIK FILE INDEX.HTML UNTUK HALAMAN UTAMA
+
+
+Tugas Pemrograman Web 
+Dibuat untuk memenuhi nilai Ujian Akhir Semester Mata Kuliah 
+Pemrograman Web dari Bapak Haderiansyah S.Kom.,M.Kom selaku dosen pengajar.
+
+Nama : Disvi Ariani
+NIM : 220310032
+Jurusan : Teknologi Informasi Semester 6
+
+INSTITUT TEKNOLOGI SAPTA MANDIRI
+HULU SUNGAI TENGAH
+2024
